@@ -26,3 +26,10 @@ Este texto está en *cursiva* y este también está en  _cursiva_
 + Elemento 3
 
 ![caballos](https://github.com/Danivegamacias/2425-smx2-a0-repoejemplo/blob/main/horses-g4a417ec1c_1920-1200x801.jpg "caballo")
+
+|Columna1 |Columna2 | Columna3 |
+|:-------------|:----------:|------------:|
+|Col 3 es |right-aligned|$1600|
+|Col 2 es |centered|$12|
+|zebra stripes |son limpias|$1|
+
