@@ -24,3 +24,5 @@ Este texto está en *cursiva* y este también está en  _cursiva_
 * Elemento 1
 - Elemento 2
 + Elemento 3
+
+![caballos](C:\Repositorios GIT SMX2\2425-smx2-a0-repoejemplo "caballo")
